@@ -1,0 +1,64 @@
+
+<html>
+	<head>
+		<title>DIY4all</title>
+			<link rel="stylesheet" type"text/css" href="final.css">
+	</head>
+	<body>
+	
+		<ul>
+			<img src="diy4allWEB.png" width="180" height="50" class="logo">
+			<br><br><br><br>
+  			<li><a href="index.html">Home</a></li>
+  			<li><a href="articles.html">Articles</a></li>
+ 		 	<li><a href="contact.html">Contact</a></li>
+  			<li><a href="about.html">About</a></li>
+		</ul>
+
+			<div id="page">
+			
+			<div id="header">
+
+			</div>
+			<div id="column1">
+			<a href="articles.html" class="no">
+				<h1>Project of the Day</h1>
+				<img src="all.jpg" class="cam">
+			</a>
+				<p>	This is a camera my dad and I are actually are building! Now time for some placeholder text, yay! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consectetur aliquam tristique. Phasellus rutrum, lectus id feugiat blandit, risus risus eleifend libero, at malesuada elit nisl sed felis. Sed scelerisque commodo orci. Curabitur dui lectus, porta in imperdiet quis, sagittis non elit. Aenean porta mauris dictum nunc mollis auctor. Quisque semper diam vitae lorem maximus condimentum. Integer metus orci, tristique in nisl vel, pellentesque tempor lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum ligula quis metus hendrerit porttitor eu vel ante. Quisque sagittis tortor at ante aliquet, nec commodo tellus pellentesque. Maecenas congue bibendum erat ut tincidunt. Ut sit amet velit vitae elit ornare finibus euismod iaculis nulla. Aliquam aliquet erat sit amet auctor venenatis. Nulla libero mi, ultricies eu fermentum sed, fermentum a quam. Aenean a ex vel ipsum mattis rhoncus interdum sit amet nibh.
+
+	Aliquam fermentum rutrum nisl, sed vehicula purus pharetra et. Ut condimentum ex nec dapibus vulputate. Integer pharetra metus vitae auctor fringilla. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ultrices eu mi et maximus. Vivamus elementum ac arcu sed congue. Sed vitae purus sit amet velit efficitur varius. Mauris vitae ultricies neque. Duis sit amet consectetur turpis. Maecenas in massa gravida, interdum orci sed, condimentum lorem. Vestibulum sed consequat libero, a ullamcorper ligula. Aliquam imperdiet, enim in scelerisque venenatis, leo justo condimentum arcu, eget egestas nulla lacus ac risus. Quisque sed faucibus sapien. Integer vitae elit molestie, lobortis justo eget, molestie justo.
+
+</p>
+				 
+			  	
+			  </a>
+			</div>
+			<div id="column2">
+				<table>
+					<tr>
+						<th colspan=4>Price List</th>
+					</tr>
+					<tr>
+						<th colspan=4>Membership (access pre-made kits and post your own articles!)</th>
+					</tr>
+					<tr>
+						<td>Monthly</td>
+						<td>Yearly</td>
+						<td>Lifetime</td>
+						<td>One Time Use</td>
+					</tr>
+					<tr>
+						<td>$5/month</td>
+						<td>$50/year (2 months free!)</td>
+						<td>$2,750 (5 years free!)</td>
+						<td>$1.50/use</td>
+					</tr>
+					<p>We at DIY4all try to give you as much free service as possible, but seriously who donates money to  website? You see them, I see them, we just ignore them. That's why we decided that premium features should cost at least a little bit of money, because without money there is no DIY4all. Thanks for your understanding!</p>
+				</table>
+			</div>
+			<div id="footer">
+				
+			</div>
+	</body>
+</html>
